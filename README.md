@@ -10,3 +10,6 @@ Sprite sheets and artwork for [Universal Userscripts](https://github.com/slllky/
 [Approved artwork](approved/) contains designs Aseerr has signed off on. [Art in review](review/) holds new drawings awaiting visual approval, including sheets available to try in the userscript.
 
 [Browse the Rengoku — Bottom Patrol sheets and motion preview](review/rengoku/).
+
+[Beat — Browser Skater remix sprites and graffiti stickers](review/beat/).
+
