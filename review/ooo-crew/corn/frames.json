@@ -1,0 +1,74 @@
+{
+  "cell": 128,
+  "columns": 3,
+  "count": 6,
+  "bounds": [
+    [
+      43,
+      75,
+      78,
+      120
+    ],
+    [
+      44,
+      74,
+      79,
+      120
+    ],
+    [
+      44,
+      74,
+      78,
+      120
+    ],
+    [
+      43,
+      74,
+      79,
+      120
+    ],
+    [
+      50,
+      78,
+      90,
+      120
+    ],
+    [
+      48,
+      74,
+      86,
+      120
+    ]
+  ],
+  "animations": {
+    "corn.greet": [
+      0,
+      1,
+      2
+    ],
+    "corn.flair": [
+      3,
+      4,
+      5
+    ]
+  },
+  "facing": -1,
+  "pivot": [
+    64,
+    120
+  ],
+  "labels": {
+    "greet": "Triple hello",
+    "flair": "Candy wobble"
+  },
+  "actionDetails": {
+    "corn.greet": {
+      "label": "Triple hello",
+      "facing": -1
+    },
+    "corn.flair": {
+      "label": "Candy wobble",
+      "facing": -1
+    }
+  }
+}

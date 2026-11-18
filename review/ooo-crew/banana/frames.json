@@ -1,0 +1,74 @@
+{
+  "cell": 128,
+  "columns": 3,
+  "count": 6,
+  "bounds": [
+    [
+      46,
+      56,
+      81,
+      120
+    ],
+    [
+      44,
+      60,
+      79,
+      120
+    ],
+    [
+      45,
+      56,
+      87,
+      120
+    ],
+    [
+      50,
+      62,
+      99,
+      120
+    ],
+    [
+      41,
+      62,
+      92,
+      120
+    ],
+    [
+      47,
+      62,
+      90,
+      120
+    ]
+  ],
+  "animations": {
+    "banana.greet": [
+      0,
+      1,
+      2
+    ],
+    "banana.flair": [
+      3,
+      4,
+      5
+    ]
+  },
+  "facing": -1,
+  "pivot": [
+    64,
+    120
+  ],
+  "labels": {
+    "greet": "Guard’s nod",
+    "flair": "Staff drill"
+  },
+  "actionDetails": {
+    "banana.greet": {
+      "label": "Guard’s nod",
+      "facing": -1
+    },
+    "banana.flair": {
+      "label": "Staff drill",
+      "facing": -1
+    }
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "cell": 128,
+  "columns": 3,
+  "count": 6,
+  "bounds": [
+    [
+      47,
+      81,
+      82,
+      120
+    ],
+    [
+      44,
+      81,
+      82,
+      120
+    ],
+    [
+      39,
+      81,
+      82,
+      120
+    ],
+    [
+      47,
+      81,
+      87,
+      120
+    ],
+    [
+      47,
+      77,
+      93,
+      120
+    ],
+    [
+      47,
+      76,
+      98,
+      120
+    ]
+  ],
+  "animations": {
+    "cake.greet": [
+      0,
+      1,
+      2
+    ],
+    "cake.flair": [
+      3,
+      4,
+      5
+    ]
+  },
+  "facing": -1,
+  "pivot": [
+    64,
+    120
+  ],
+  "labels": {
+    "greet": "Paw hello",
+    "flair": "Tail heart"
+  },
+  "actionDetails": {
+    "cake.greet": {
+      "label": "Paw hello",
+      "facing": -1
+    },
+    "cake.flair": {
+      "label": "Tail heart",
+      "facing": -1
+    }
+  }
+}

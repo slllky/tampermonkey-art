@@ -1,0 +1,70 @@
+{
+  "cell": 128,
+  "columns": 3,
+  "count": 6,
+  "bounds": [
+    [
+      47,
+      72,
+      81,
+      120
+    ],
+    [
+      48,
+      72,
+      85,
+      120
+    ],
+    [
+      48,
+      73,
+      89,
+      120
+    ],
+    [
+      49,
+      72,
+      79,
+      120
+    ],
+    [
+      49,
+      72,
+      79,
+      120
+    ],
+    [
+      47,
+      72,
+      82,
+      120
+    ]
+  ],
+  "animations": {
+    "wildberry.greet": [
+      0,
+      1,
+      2
+    ],
+    "wildberry.flair": [
+      3,
+      4,
+      5
+    ]
+  },
+  "facing": -1,
+  "labels": {
+    "greet": "Leaf wave",
+    "flair": "Berry bouquet"
+  },
+  "actionDetails": {
+    "wildberry.greet": {
+      "label": "Leaf wave",
+      "facing": -1
+    },
+    "wildberry.flair": {
+      "label": "Berry bouquet",
+      "facing": -1
+    }
+  }
+}

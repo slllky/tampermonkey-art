@@ -1,0 +1,74 @@
+{
+  "cell": 128,
+  "columns": 3,
+  "count": 6,
+  "bounds": [
+    [
+      46,
+      55,
+      78,
+      120
+    ],
+    [
+      45,
+      55,
+      78,
+      120
+    ],
+    [
+      42,
+      55,
+      78,
+      120
+    ],
+    [
+      46,
+      55,
+      78,
+      120
+    ],
+    [
+      47,
+      55,
+      78,
+      120
+    ],
+    [
+      32,
+      55,
+      80,
+      120
+    ]
+  ],
+  "animations": {
+    "fionna.greet": [
+      0,
+      1,
+      2
+    ],
+    "fionna.flair": [
+      3,
+      4,
+      5
+    ]
+  },
+  "facing": -1,
+  "pivot": [
+    64,
+    120
+  ],
+  "labels": {
+    "greet": "Bunny-ear salute",
+    "flair": "Trail map"
+  },
+  "actionDetails": {
+    "fionna.greet": {
+      "label": "Bunny-ear salute",
+      "facing": -1
+    },
+    "fionna.flair": {
+      "label": "Trail map",
+      "facing": -1
+    }
+  }
+}

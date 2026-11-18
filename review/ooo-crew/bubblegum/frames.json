@@ -1,0 +1,74 @@
+{
+  "cell": 128,
+  "columns": 3,
+  "count": 6,
+  "bounds": [
+    [
+      51,
+      51,
+      83,
+      120
+    ],
+    [
+      45,
+      59,
+      94,
+      120
+    ],
+    [
+      51,
+      50,
+      78,
+      120
+    ],
+    [
+      52,
+      50,
+      78,
+      120
+    ],
+    [
+      50,
+      51,
+      84,
+      120
+    ],
+    [
+      48,
+      49,
+      89,
+      120
+    ]
+  ],
+  "animations": {
+    "bubblegum.greet": [
+      0,
+      1,
+      2
+    ],
+    "bubblegum.flair": [
+      3,
+      4,
+      5
+    ]
+  },
+  "facing": 1,
+  "pivot": [
+    64,
+    120
+  ],
+  "labels": {
+    "greet": "Royal curtsy",
+    "flair": "Sample swirl"
+  },
+  "actionDetails": {
+    "bubblegum.greet": {
+      "label": "Royal curtsy",
+      "facing": 1
+    },
+    "bubblegum.flair": {
+      "label": "Sample swirl",
+      "facing": 1
+    }
+  }
+}

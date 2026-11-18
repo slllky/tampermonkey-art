@@ -1,0 +1,75 @@
+{
+  "cell": 128,
+  "columns": 3,
+  "count": 6,
+  "pivot": [
+    64,
+    120
+  ],
+  "bounds": [
+    [
+      52,
+      43,
+      84,
+      120
+    ],
+    [
+      41,
+      48,
+      89,
+      120
+    ],
+    [
+      35,
+      56,
+      91,
+      120
+    ],
+    [
+      50,
+      42,
+      94,
+      120
+    ],
+    [
+      48,
+      43,
+      99,
+      120
+    ],
+    [
+      44,
+      43,
+      107,
+      120
+    ]
+  ],
+  "animations": {
+    "marceline.greet": [
+      0,
+      1,
+      2
+    ],
+    "marceline.flair": [
+      3,
+      4,
+      5
+    ]
+  },
+  "facing": -1,
+  "labels": {
+    "greet": "Vampire bow",
+    "flair": "Bass slide"
+  },
+  "actionDetails": {
+    "marceline.greet": {
+      "label": "Vampire bow",
+      "facing": -1
+    },
+    "marceline.flair": {
+      "label": "Bass slide",
+      "facing": -1
+    }
+  },
+  "art": "Generated from the existing Ooo Crew sprite reference."
+}

@@ -1,0 +1,74 @@
+{
+  "cell": 128,
+  "columns": 3,
+  "count": 6,
+  "bounds": [
+    [
+      55,
+      56,
+      75,
+      120
+    ],
+    [
+      47,
+      60,
+      74,
+      120
+    ],
+    [
+      47,
+      56,
+      76,
+      120
+    ],
+    [
+      55,
+      56,
+      77,
+      120
+    ],
+    [
+      51,
+      55,
+      76,
+      120
+    ],
+    [
+      47,
+      55,
+      78,
+      120
+    ]
+  ],
+  "animations": {
+    "flame.greet": [
+      0,
+      1,
+      2
+    ],
+    "flame.flair": [
+      3,
+      4,
+      5
+    ]
+  },
+  "facing": -1,
+  "pivot": [
+    64,
+    120
+  ],
+  "labels": {
+    "greet": "Ember bow",
+    "flair": "Kindle a spark"
+  },
+  "actionDetails": {
+    "flame.greet": {
+      "label": "Ember bow",
+      "facing": -1
+    },
+    "flame.flair": {
+      "label": "Kindle a spark",
+      "facing": -1
+    }
+  }
+}

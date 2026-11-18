@@ -1,3 +1,3 @@
 # Art in review
 
-Open a character folder to review its sprite sheet and preview before it moves to the approved collection.
+Open the [Ooo Crew gallery](ooo-crew/) to see the animations and download individual sheets.
