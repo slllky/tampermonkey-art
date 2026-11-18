@@ -4,5 +4,5 @@ Open the [Ooo Crew gallery](ooo-crew/) to see the animations and download indivi
 
 [Browse the Rengoku — Bottom Patrol sheets and motion preview](rengoku/).
 
-[Beat FM crew, trick animations and graffiti stickers](beat/).
+[Beat FM crew, district murals and skating animations](beat/).
 

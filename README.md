@@ -11,5 +11,5 @@ Sprite sheets and artwork for [Universal Userscripts](https://github.com/slllky/
 
 [Browse the Rengoku — Bottom Patrol sheets and motion preview](review/rengoku/).
 
-[Beat FM crew, trick animations and graffiti stickers](review/beat/).
+[Beat FM crew, district murals and skating animations](review/beat/).
 
