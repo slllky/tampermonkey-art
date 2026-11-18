@@ -1,16 +1,21 @@
-# Beat — Remix sprites and street art
+# Beat FM crew
 
-![Beat skating the Sidewinder and Air mail lines](beat-motion.gif)
+![All seven skaters performing their automatic Free Skate lines](beat-motion.gif)
 
-**Remix** gives Beat 36 cels on a six-column transparent sheet. Each of the nine actions uses four frames. The pivot sits at the skates, at (64, 116) inside a 128 × 128 cell. The frame map includes tight bounds for every cel and the action playback order.
+| Rider | Signature line | Cels | Files |
+|---|---|---:|---|
+| Beat | Needle Thread | 54 | [Sheet](remix/sheet.png) · [Frame map](remix/frames.json) · [Portrait](remix/portrait.png) |
+| Gum | Sugar Rush | 16 | [Sheet](gum/sheet.png) · [Frame map](gum/frames.json) · [Portrait](gum/portrait.png) |
+| Combo | Bass Drop | 16 | [Sheet](combo/sheet.png) · [Frame map](combo/frames.json) · [Portrait](combo/portrait.png) |
+| Yo-Yo | Yo-Yo Exchange | 16 | [Sheet](yoyo/sheet.png) · [Frame map](yoyo/frames.json) · [Portrait](yoyo/portrait.png) |
+| Corn | Kernel Panic | 16 | [Sheet](corn/sheet.png) · [Frame map](corn/frames.json) · [Portrait](corn/portrait.png) |
+| Zero Beat | Dead Channel | 16 | [Sheet](zero/sheet.png) · [Frame map](zero/frames.json) · [Portrait](zero/portrait.png) |
+| Poison Jam | Toxic Spill | 16 | [Sheet](poison/sheet.png) · [Frame map](poison/frames.json) · [Portrait](poison/portrait.png) |
 
-| Sheet | Artwork | Frame map |
-|---|---|---|
-| Remix Beat | [Download PNG](remix/sheet.png) | [Animations and bounds](remix/frames.json) |
-| Street marks | [Download PNG](street/sheet.png) | [Sticker indexes](street/frames.json) |
+The seven sheets use 128 × 128 transparent cells with the skate pivot at (64, 116). The first number pair in each cel’s bounds marks its upper-left corner. The last pair marks the exclusive bottom-right edge. The animation maps provide the playback order, including poses shared across actions.
 
-The street sheet contains **Static Wax** (lightning on vinyl), **Alleycat** (a pink mohawk), **Spool Skull** (a cassette skull), and the spray-can pickup. Beat paints the three tags one at a time.
+The [street sheet](street/sheet.png) and [frame map](street/frames.json) contain Static Wax, Alleycat, Spool Skull and the spray-can pickup.
 
-These are new, generated fan-art assets in visual review. Beat and Jet Set Radio belong to SEGA. The script also includes a Classic option with the original xugggys sheet.
+These generated fan-art sprites are in review. The characters and Jet Set Radio belong to SEGA. Corn wears his original blue outfit and cap. Poison Jam is represented by one blue, finned gang member. The separate Classic Beat skin in the userscript credits xugggys.
 
-[Play with Beat in Universal Userscripts](https://github.com/slllky/universal-userscripts/tree/main/companions/beat)
+[Play with the crew in Universal Userscripts](https://github.com/slllky/universal-userscripts/tree/main/companions/beat)
